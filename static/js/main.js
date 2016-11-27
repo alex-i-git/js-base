@@ -1,1 +1,1 @@
-alert("Привет!")
+console.log($('h1'))
