@@ -1,10 +1,27 @@
-body { 
-	padding-top: 50px; 
+h1	{
+	color: #256a88;
+	font-size: 48px;
+	margin-bottom: 20px;
 }
-.carousel-inner	{
-	height: 400px;
+.buttons {
+	margin: 10px 0px 20px 0px;
 }
-.carousel-caption	{
-	top: 20px;
-	font-size: 60px;
+#result	{
+	position: relative;
+	width: 800px;
+}
+.red	{
+	color: red;
+}
+.blue	{
+	color: blue;
+}
+.gamma	{
+	color: yellow;
+}
+.overtext	{
+	text-decoration: overline;
+}
+.undertext	{
+	text-decoration: underline;
 }
